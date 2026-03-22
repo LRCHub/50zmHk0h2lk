@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今日が歴史に残るなら",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-22T10:00:18.383781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今日が歴史に残るなら",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_今日が歴史に残るなら_フランシュシュ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日が歴史に残るなら",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_今日が歴史に残るなら_フランシュシュ.txt"
+    }
+  ]
+}
